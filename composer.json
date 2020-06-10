@@ -1,0 +1,16 @@
+{
+    "name": "septian97/data-mahasiswa",
+    "type": "project",
+    "authors": [
+        {
+            "name":"Septian Rizaldi",
+            "email": "septirizal97@gmail.com",
+            "role": "programmer"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "description": "Tugas UAS Semester 4"
+
+}
